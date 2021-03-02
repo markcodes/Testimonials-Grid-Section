@@ -112,7 +112,7 @@ body {
     .comment-section:nth-of-type(1) {
         grid-row: 1;
         grid-column: 1/3;
-        background-position: 30vw top;
+        background-position: 20vw top;
     }
     .comment-section:nth-of-type(3) {
         grid-row: 2;
